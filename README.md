@@ -1,24 +1,25 @@
+<h1 align="center">
+  Chat AI
+</h1>
+
+## A chat AI interface using technologies like <a href="https://nextjs.org/">next.js<a> and some tools like <a href="https://sdk.vercel.ai/docs">Vercel AI SDK<a>, <a href="https://ui.shadcn.com/">shadcn<a>, <a href="https://platform.openai.com/playground">openai platform<a>.
+#
+  <h1 align="center"> <a href="https://chat-ia-chi.vercel.app/">Check the aplication<a> </h1>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/955884943383343215/1129932400030400612/Group_1_5.png?width=1007&height=604" width="900" />
+</p>
+
+## Building
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
+You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-npm run dev 
-# or
-yarn dev
-# or
-pnpm dev
+git clone https://github.com/thegaab/Twitter-UI.git
+$ cd chat-IA
+$ npm i
+$ npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
