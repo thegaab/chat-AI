@@ -4,7 +4,8 @@
 
 ## A chat AI interface using technologies like <a href="https://nextjs.org/">next.js<a> and some tools like <a href="https://sdk.vercel.ai/docs">Vercel AI SDK<a>, <a href="https://ui.shadcn.com/">shadcn<a>, <a href="https://platform.openai.com/playground">openai platform<a>.
 #
-  <h1 align="center"> <a href="https://chat-ia-chi.vercel.app/">Check the aplication<a> </h1>
+  <h1 align="center"> <a href="https://chat-ia-chi.vercel.app/">Check the aplication<a> <h3 align="center"> For the openAI artificial intelligence to respond, an active API KEY is required </h3> </h1>
+    
 <p align="center">
   <img src="https://media.discordapp.net/attachments/955884943383343215/1129932400030400612/Group_1_5.png?width=1007&height=604" width="900" />
 </p>
